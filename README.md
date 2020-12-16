@@ -9,3 +9,4 @@ I've never taken a course on C# or Unity, so everything here is based on previou
 
 Here is a sneakpeak at what the game currently looks like.
 ![alt text](https://i.imgur.com/kcP2Ogf.png)
+![alt text](https://i.imgur.com/nvjTY2L.png)
